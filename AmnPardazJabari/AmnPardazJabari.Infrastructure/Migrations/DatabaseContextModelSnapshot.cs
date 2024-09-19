@@ -22,6 +22,39 @@ namespace AmnPardazJabari.Infrastructure.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
+            modelBuilder.Entity("AmnPardazJabari.Domain.TodoLists.TodoList", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Checked")
+                        .HasColumnType("tinyint(1)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<DateTime>("DeletedDate")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<DateTime>("EndDate")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<DateTime>("StartDate")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("char(36)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("TodoList");
+                });
+
             modelBuilder.Entity("AmnPardazJabari.Domain.Users.User", b =>
                 {
                     b.Property<Guid>("Id")
@@ -40,6 +73,61 @@ namespace AmnPardazJabari.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("User");
+                });
+
+            modelBuilder.Entity("AmnPardazJabari.Domain.TodoLists.TodoList", b =>
+                {
+                    b.HasOne("AmnPardazJabari.Domain.Users.User", "User")
+                        .WithMany("TodoLists")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.OwnsOne("AmnPardazJabari.Domain.TodoList.ValueObjects.Description", "Description", b1 =>
+                        {
+                            b1.Property<int>("TodoListId")
+                                .HasColumnType("int");
+
+                            b1.Property<string>("Value")
+                                .IsRequired()
+                                .HasMaxLength(150)
+                                .HasColumnType("NVarChar")
+                                .HasColumnName("Description");
+
+                            b1.HasKey("TodoListId");
+
+                            b1.ToTable("TodoList");
+
+                            b1.WithOwner()
+                                .HasForeignKey("TodoListId");
+                        });
+
+                    b.OwnsOne("AmnPardazJabari.Domain.TodoList.ValueObjects.Title", "Title", b1 =>
+                        {
+                            b1.Property<int>("TodoListId")
+                                .HasColumnType("int");
+
+                            b1.Property<string>("Value")
+                                .IsRequired()
+                                .HasMaxLength(15)
+                                .HasColumnType("NVarChar")
+                                .HasColumnName("Title");
+
+                            b1.HasKey("TodoListId");
+
+                            b1.ToTable("TodoList");
+
+                            b1.WithOwner()
+                                .HasForeignKey("TodoListId");
+                        });
+
+                    b.Navigation("Description")
+                        .IsRequired();
+
+                    b.Navigation("Title")
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("AmnPardazJabari.Domain.Users.User", b =>
@@ -87,6 +175,11 @@ namespace AmnPardazJabari.Infrastructure.Migrations
 
                     b.Navigation("UserName")
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("AmnPardazJabari.Domain.Users.User", b =>
+                {
+                    b.Navigation("TodoLists");
                 });
 #pragma warning restore 612, 618
         }

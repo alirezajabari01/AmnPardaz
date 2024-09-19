@@ -1,4 +1,5 @@
 using AmnPardazJabari.DI;
+using AmnPardazJabari.Domain.CustomMapping;
 using AmnPardazJabari.Infrastructure;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
@@ -12,8 +13,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpContextAccessor();
+builder.Services.InitializeAutoMapper();
 builder.Services.AddOptions<SwaggerGenOptions>().Configure(swagger =>
 {
     // var swaggerDocOptions = new SwaggerDocumentOptions();

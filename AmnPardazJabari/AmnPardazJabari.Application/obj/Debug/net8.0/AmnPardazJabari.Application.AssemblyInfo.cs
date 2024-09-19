@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmnPardazJabari.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09284e846c5edbf5b1384520d8d6acfbd4d93c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7756d8870bd9d98cb6646d1d06befe73b906397d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmnPardazJabari.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmnPardazJabari.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,4 @@ E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.dll
 E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\refint\AmnPardazJabari.Domain.dll
 E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.pdb
 E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\ref\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.csproj.AssemblyReference.cache

@@ -9,8 +9,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a928ce2-8b7a-40d9-b333-911c03276c93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/Context/DatabaseContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/RegisterDependencyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AmnPardazJabari/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AmnPardazJabari/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/AmnPardazJabari.Application.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/AmnPardazJabari.Application.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/AmnPardazJabari.Application.Contracts.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/ref/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/ref/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/refint/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/Debug/net8.0/refint/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application.Contracts/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/AmnPardazJabari.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/AmnPardazJabari.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/AmnPardazJabari.Application.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/ref/AmnPardazJabari.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/ref/AmnPardazJabari.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/refint/AmnPardazJabari.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/Debug/net8.0/refint/AmnPardazJabari.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/AmnPardazJabari.Domain.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/AmnPardazJabari.Domain.Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/AmnPardazJabari.Domain.Service.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/ref/AmnPardazJabari.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/ref/AmnPardazJabari.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/refint/AmnPardazJabari.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/Debug/net8.0/refint/AmnPardazJabari.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Domain.Service/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/Migrations/DatabaseContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/Migrations/DatabaseContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/AmnPardazJabari.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/AmnPardazJabari.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/AmnPardazJabari.Infrastructure.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/ref/AmnPardazJabari.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/ref/AmnPardazJabari.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/refint/AmnPardazJabari.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/Debug/net8.0/refint/AmnPardazJabari.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/bin/Debug/net8.0/AmnPardazJabari.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/AmnPardazJabari.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/AmnPardazJabari.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/AmnPardazJabari.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/ref/AmnPardazJabari.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/ref/AmnPardazJabari.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/refint/AmnPardazJabari.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/Debug/net8.0/refint/AmnPardazJabari.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmnPardazJabari/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmnPardazJabari/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/AmnPardazJabari.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/AmnPardazJabari.Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/TodoList/TodoList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/TodoList/TodoList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/UserTodoList/UserTodoList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Users/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Users/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/AmnPardazJabari.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/AmnPardazJabari.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/AmnPardazJabari.Domain.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/ref/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/ref/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/refint/AmnPardazJabari.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/refint/AmnPardazJabari.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +167,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d3a451850004403293b134b9fe18ce3fc8f920/52/fd066616/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d3a451850004403293b134b9fe18ce3fc8f920/a5/850aec45/ArgumentNullException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d3a451850004403293b134b9fe18ce3fc8f920/ae/691f34fb/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d3a451850004403293b134b9fe18ce3fc8f920/fc/531cff7f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -117,7 +246,7 @@
       <updated>1726683600897</updated>
       <workItem from="1726683605428" duration="3590000" />
       <workItem from="1726724942354" duration="9575000" />
-      <workItem from="1726739403356" duration="3213000" />
+      <workItem from="1726739403356" duration="6718000" />
     </task>
     <servers />
   </component>
@@ -127,63 +256,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AmnPardazJabari/Filters/SecurityFilter.cs</url>
-          <line>33</line>
-          <properties documentPath="E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\Filters\SecurityFilter.cs" containingFunctionPresentation="Lambda expression inside Method 'OnActionExecuting'">
-            <startOffsets>
-              <option value="1269" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1341" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AmnPardazJabari.Application/Security/TokenGenerator.cs</url>
-          <line>13</line>
-          <properties documentPath="E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application\Security\TokenGenerator.cs" containingFunctionPresentation="Method 'Generate'">
-            <startOffsets>
-              <option value="328" />
-            </startOffsets>
-            <endOffsets>
-              <option value="359" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AmnPardazJabari/Filters/SecurityFilter.cs</url>
-          <line>29</line>
-          <properties documentPath="E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\Filters\SecurityFilter.cs" containingFunctionPresentation="Method 'OnActionExecuting'">
-            <startOffsets>
-              <option value="1087" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1115" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AmnPardazJabari/Filters/SecurityFilter.cs</url>
-          <line>40</line>
-          <properties documentPath="E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\Filters\SecurityFilter.cs" containingFunctionPresentation="Method 'OnActionExecuting'">
-            <startOffsets>
-              <option value="1772" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1873" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

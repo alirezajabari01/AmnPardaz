@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "HgwRWmTbeXtucoWvDnpApTA0TzB5Os4u6gbPKuEaFqQvew2mVjmualeJpseJbymOBJr/GFRSI0LGuxFGZibnUA==",
+  "dgSpecHash": "daMJ2/TgfRs=",
   "success": true,
   "projectFilePath": "E:\\AmnPardaz\\AmnPardazJabari\\AmnPardazJabari.Application.Contracts\\AmnPardazJabari.Application.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TORANJ\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\autofac.extras.dynamicproxy\\7.1.0\\autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\TORANJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

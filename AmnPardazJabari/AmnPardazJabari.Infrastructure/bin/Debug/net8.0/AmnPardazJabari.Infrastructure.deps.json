@@ -18,6 +18,51 @@
           "AmnPardazJabari.Infrastructure.dll": {}
         }
       },
+      "Autofac/6.5.0": {
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.7.1"
+        },
+        "runtime": {
+          "lib/net6.0/Autofac.dll": {
+            "assemblyVersion": "6.5.0.0",
+            "fileVersion": "6.5.0.0"
+          }
+        }
+      },
+      "Autofac.Extras.DynamicProxy/7.1.0": {
+        "dependencies": {
+          "Autofac": "6.5.0",
+          "Castle.Core": "5.1.1"
+        },
+        "runtime": {
+          "lib/net6.0/Autofac.Extras.DynamicProxy.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        }
+      },
+      "AutoMapper/13.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.0"
+          }
+        }
+      },
+      "Castle.Core/5.1.1": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.1.0"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "runtime": {
           "lib/net6.0/Humanizer.dll": {
@@ -554,6 +599,29 @@
           }
         }
       },
+      "System.Diagnostics.DiagnosticSource/4.7.1": {},
+      "System.Diagnostics.EventLog/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "System.IO.Pipelines/6.0.3": {
         "runtime": {
           "lib/net6.0/System.IO.Pipelines.dll": {
@@ -587,6 +655,10 @@
       },
       "System.Threading.Channels/6.0.0": {},
       "AmnPardazJabari.Domain/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "Autofac.Extras.DynamicProxy": "7.1.0"
+        },
         "runtime": {
           "AmnPardazJabari.Domain.dll": {}
         }
@@ -598,6 +670,34 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/6.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sm6HWWBDEoTPGXeyOchMygJ/7L89VxmVH72BFxakG88J34AVjA8RMi5jbv3PdpUtXI/d9ZLKOaxCmOSIo2K4aA==",
+      "path": "autofac/6.5.0",
+      "hashPath": "autofac.6.5.0.nupkg.sha512"
+    },
+    "Autofac.Extras.DynamicProxy/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Da6Szv7A1LK/cTdeoyqS45zb/BC5vep8+86f6C1oh2UhZaYtiijlNfLWamp3lxe0uUQ33kFe1dDCjsvfwJWzLg==",
+      "path": "autofac.extras.dynamicproxy/7.1.0",
+      "hashPath": "autofac.extras.dynamicproxy.7.1.0.nupkg.sha512"
+    },
+    "AutoMapper/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "path": "automapper/13.0.1",
+      "hashPath": "automapper.13.0.1.nupkg.sha512"
+    },
+    "Castle.Core/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
+      "path": "castle.core/5.1.1",
+      "hashPath": "castle.core.5.1.1.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",
@@ -850,6 +950,20 @@
       "sha512": "sha512-iUR1eHrL8Cwd82neQCJ00MpwNIBs4NZgXzrPqx8NJf/k4+mwBO0XCRmHYJT4OLSwDDqh5nBLJWkz5cROnrGhRA==",
       "path": "system.composition.typedparts/6.0.0",
       "hashPath": "system.composition.typedparts.6.0.0.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
+      "path": "system.diagnostics.diagnosticsource/4.7.1",
+      "hashPath": "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "hashPath": "system.diagnostics.eventlog.6.0.0.nupkg.sha512"
     },
     "System.IO.Pipelines/6.0.3": {
       "type": "package",

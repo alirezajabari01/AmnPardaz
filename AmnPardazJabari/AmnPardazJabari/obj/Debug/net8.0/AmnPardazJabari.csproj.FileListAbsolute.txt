@@ -123,3 +123,6 @@ E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Microsoft.Identity
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\AutoMapper.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Castle.Core.dll

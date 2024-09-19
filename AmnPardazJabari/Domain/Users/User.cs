@@ -4,6 +4,7 @@ using AmnPardazJabari.Domain.Abstractions.LifeTimeRegisterations;
 using AmnPardazJabari.Domain.Enums;
 using AmnPardazJabari.Domain.Users.Contracts;
 using AmnPardazJabari.Domain.Users.ValueObjects;
+using AmnPardazJabari.Domain.TodoLists;
 
 namespace AmnPardazJabari.Domain.Users
 {
@@ -32,6 +33,10 @@ namespace AmnPardazJabari.Domain.Users
         }
 
 
-        public List<UserTodoList.UserTodoList> UserTodoList { get; set; }
+        #region OneToMany
+
+        public List<TodoLists.TodoList> TodoLists { get; set; }
+
+        #endregion
     }
 }
