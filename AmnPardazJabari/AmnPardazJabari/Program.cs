@@ -55,7 +55,7 @@ builder.Host.ConfigureContainer<ContainerBuilder>(
     containerBuilder => containerBuilder.RegisterModule(new AutofacModule()));
 
 var app = builder.Build();
-
+app.InitializeDatabase();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

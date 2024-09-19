@@ -1,5 +1,7 @@
 ﻿using System.Data;
+using AmnPardazJabari.Domain.Enums;
 using AmnPardazJabari.Domain.Users;
+using AmnPardazJabari.Domain.Users.ValueObjects;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

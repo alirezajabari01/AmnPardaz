@@ -1,5 +1,6 @@
 using AmnPardazJabari.Application.Contracts.Users;
 using AmnPardazJabari.Application.Contracts.Users.Dtos;
+using AmnPardazJabari.Application.Security;
 using AmnPardazJabari.Application.UserId;
 using AmnPardazJabari.Domain.Enums;
 using AmnPardazJabari.Filters;
@@ -13,7 +14,7 @@ namespace AmnPardazJabari.Controllers
     [Route("[controller]")]
     public class AuthenticationController(
         DatabaseContext context,
-        IUserService userService
+        IAuthenticationService userService
     )
         : ControllerBase
     {

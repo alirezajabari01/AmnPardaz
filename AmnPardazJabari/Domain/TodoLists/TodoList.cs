@@ -11,12 +11,13 @@ public class TodoList : BaseEntity<int>, IScopeLifeTime
     {
         
     }
-    public TodoList(string title, string description, DateTime startDate, DateTime endDate)
+    public TodoList(string title, string description, DateTime startDate, DateTime endDate,Guid userId)
     {
         StartDate = startDate;
         EndDate = endDate;
         Description = new Description(description);
         Title = new Title(title);
+        UserId = userId;
     }
 
     public bool Checked { get; set; } = false;

@@ -9,8 +9,8 @@ using OnlineGym.Application.Security;
 
 namespace AmnPardazJabari.Application.Users;
 
-public class UserService(IUserRepository userRepository, IUserNameDuplicateChecker checker)
-    : IUserService, IScopeLifeTime
+public class AuthenticationService(IUserRepository userRepository, IUserNameDuplicateChecker checker)
+    : IAuthenticationService, IScopeLifeTime
 {
     public void RegisterUser(RegisterUserRequest request)
     {

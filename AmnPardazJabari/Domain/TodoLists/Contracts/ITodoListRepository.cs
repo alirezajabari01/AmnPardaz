@@ -5,6 +5,8 @@ namespace AmnPardazJabari.Domain.TodoLists.Contracts;
 
 public interface ITodoListRepository : IScopeLifeTime
 {
+    IQueryable<TodoList> CreatePage<TResult>(IQueryable<TodoList> query, int pageNumber, int pageSize);
+    IQueryable<TodoList> GetQueryable();
     public bool IsExist(Expression<Func<TodoList, bool>> predicate);
     public void Add(TodoList user);
     public void Delete(TodoList user);

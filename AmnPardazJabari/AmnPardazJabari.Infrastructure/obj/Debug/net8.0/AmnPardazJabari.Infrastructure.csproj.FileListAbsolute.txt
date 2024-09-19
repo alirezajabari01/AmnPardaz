@@ -16,3 +16,4 @@ E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Infrastructure\obj\Debug\net8.0\ref
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Infrastructure\obj\Debug\net8.0\AmnPardazJabari.Infrastructure.pdb
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Infrastructure\obj\Debug\net8.0\AmnPardazJabari.Infrastructure.genruntimeconfig.cache
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Infrastructure\obj\Debug\net8.0\ref\AmnPardazJabari.Infrastructure.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll

@@ -3,8 +3,8 @@ using AmnPardazJabari.Domain.Abstractions.LifeTimeRegisterations;
 
 namespace AmnPardazJabari.Application.Contracts.Users;
 
-public interface IUserService : IScopeLifeTime
+public interface IAdminUserService:IScopeLifeTime
 {
-    void RegisterUser(RegisterUserRequest request);
-    LoginResponse Login(LoginRequest request);
+    GetUserResponse GetUserById(Guid id);
+    void Delete(Guid id);
 }

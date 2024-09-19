@@ -15,14 +15,21 @@ public class DatabaseContext : DbContext
         
     }
 
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        base.OnConfiguring(optionsBuilder);
+        optionsBuilder.EnableSensitiveDataLogging();
+    }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        
         base.OnModelCreating(modelBuilder);
         var entitiesAssembly = typeof(IEntity).Assembly;
         RegisterAllEntities<IEntity>(modelBuilder,entitiesAssembly);
         AddRestrictDeleteBehaviorConvention(modelBuilder);
         modelBuilder.ApplyConfiguration(new UserEntityTypeConfiguration());
         modelBuilder.ApplyConfiguration(new TodoListEntityTypeConfiguration());
+        
     }
 
     public static void RegisterAllEntities<BaseType>(ModelBuilder modelBuilder, params Assembly[] assemblies)
