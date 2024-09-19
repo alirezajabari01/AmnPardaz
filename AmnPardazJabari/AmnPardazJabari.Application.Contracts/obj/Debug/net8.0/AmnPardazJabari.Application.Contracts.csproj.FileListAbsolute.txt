@@ -1,0 +1,16 @@
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\bin\Debug\net8.0\AmnPardazJabari.Application.Contracts.deps.json
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\bin\Debug\net8.0\AmnPardazJabari.Application.Contracts.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\bin\Debug\net8.0\AmnPardazJabari.Application.Contracts.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\bin\Debug\net8.0\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\bin\Debug\net8.0\AmnPardazJabari.Domain.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.csproj.AssemblyReference.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.AssemblyInfoInputs.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.AssemblyInfo.cs
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.sourcelink.json
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnParda.0CF0BFE8.Up2Date
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\refint\AmnPardazJabari.Application.Contracts.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\AmnPardazJabari.Application.Contracts.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Application.Contracts\obj\Debug\net8.0\ref\AmnPardazJabari.Application.Contracts.dll

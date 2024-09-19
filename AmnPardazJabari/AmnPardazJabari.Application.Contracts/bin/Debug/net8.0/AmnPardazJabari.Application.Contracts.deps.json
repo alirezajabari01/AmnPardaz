@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AmnPardazJabari.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "AmnPardazJabari.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AmnPardazJabari.Application.Contracts.dll": {}
+        }
+      },
+      "AmnPardazJabari.Domain/1.0.0": {
+        "runtime": {
+          "AmnPardazJabari.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmnPardazJabari.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmnPardazJabari.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

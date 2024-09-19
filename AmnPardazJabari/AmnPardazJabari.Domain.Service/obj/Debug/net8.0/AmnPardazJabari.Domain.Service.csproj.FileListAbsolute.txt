@@ -1,0 +1,16 @@
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\bin\Debug\net8.0\AmnPardazJabari.Domain.Service.deps.json
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\bin\Debug\net8.0\AmnPardazJabari.Domain.Service.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\bin\Debug\net8.0\AmnPardazJabari.Domain.Service.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\bin\Debug\net8.0\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\bin\Debug\net8.0\AmnPardazJabari.Domain.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.csproj.AssemblyReference.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.AssemblyInfoInputs.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.AssemblyInfo.cs
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.csproj.CoreCompileInputs.cache
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.sourcelink.json
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnParda.DADE0251.Up2Date
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\refint\AmnPardazJabari.Domain.Service.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\AmnPardazJabari.Domain.Service.pdb
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari.Domain.Service\obj\Debug\net8.0\ref\AmnPardazJabari.Domain.Service.dll

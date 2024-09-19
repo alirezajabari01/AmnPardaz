@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\AmnPardazJabari.Application.Contracts\AmnPardazJabari.Application.Contracts.csproj"/>
+        <ProjectReference Include="..\Domain\AmnPardazJabari.Domain.csproj"/>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+<!--        <Reference Include="Microsoft.AspNetCore.Http.Abstractions">-->
+<!--            <HintPath>C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.6\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>-->
+<!--        </Reference>-->
+<!--        <Reference Include="Microsoft.AspNetCore.Http.Features"/>-->
+<!--        <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />-->
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.2"/>
+    </ItemGroup>
+
+</Project>

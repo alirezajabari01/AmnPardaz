@@ -1,0 +1,12 @@
+E:\AmnPardaz\AmnPardazJabari\Domain\bin\Debug\net8.0\AmnPardazJabari.Domain.deps.json
+E:\AmnPardaz\AmnPardazJabari\Domain\bin\Debug\net8.0\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\Domain\bin\Debug\net8.0\AmnPardazJabari.Domain.pdb
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.AssemblyInfoInputs.cache
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.AssemblyInfo.cs
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.csproj.CoreCompileInputs.cache
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.sourcelink.json
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\refint\AmnPardazJabari.Domain.dll
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\AmnPardazJabari.Domain.pdb
+E:\AmnPardaz\AmnPardazJabari\Domain\obj\Debug\net8.0\ref\AmnPardazJabari.Domain.dll
