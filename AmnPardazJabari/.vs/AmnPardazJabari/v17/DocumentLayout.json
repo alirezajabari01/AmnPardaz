@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\AmnPardaz\\AmnPardazJabari\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2F42FA43-86B8-4EB8-B46E-BD87E8A12373}|AmnPardazJabari\\AmnPardazJabari.csproj|e:\\amnpardaz\\amnpardazjabari\\amnpardazjabari\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F42FA43-86B8-4EB8-B46E-BD87E8A12373}|AmnPardazJabari\\AmnPardazJabari.csproj|solutionrelative:amnpardazjabari\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|e:\\amnpardaz\\amnpardazjabari\\domain\\amnpardazjabari.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|solutionrelative:domain\\amnpardazjabari.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AmnPardazJabari.Domain",
-              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\AmnPardazJabari.Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\AmnPardazJabari.Domain.csproj",
-              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\AmnPardazJabari.Domain.csproj",
-              "RelativeToolTip": "Domain\\AmnPardazJabari.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T08:45:10.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\AmnPardazJabari\\Dockerfile",
-              "RelativeDocumentMoniker": "AmnPardazJabari\\Dockerfile",
-              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\AmnPardazJabari\\Dockerfile",
-              "RelativeToolTip": "AmnPardazJabari\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-20T08:40:52.06Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
