@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AmnPardazJabari.Abstractions.ControllerBasic;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/admin/[controller]")]
 [SecurityFilter(RoleId.Admin)]
 public class AdminBaseController : ControllerBase
 {

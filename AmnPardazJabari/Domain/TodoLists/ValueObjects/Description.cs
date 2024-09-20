@@ -2,9 +2,9 @@
 using AmnPardazJabari.Domain.Abstractions.Entities;
 using AmnPardazJabari.Domain.Exceptions;
 
-namespace AmnPardazJabari.Domain.TodoList.ValueObjects;
+namespace AmnPardazJabari.Domain.TodoLists.ValueObjects;
 
-public class Description: ValueObject
+public class Description : ValueObject
 {
     protected override IEnumerable<object> GetEqualityComponents()
     {

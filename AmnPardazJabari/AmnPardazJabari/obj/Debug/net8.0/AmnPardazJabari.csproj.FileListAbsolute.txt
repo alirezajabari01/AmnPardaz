@@ -127,3 +127,4 @@ E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Autofac.Extras.Dyn
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\AutoMapper.dll
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Castle.Core.dll
 E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\xunit.assert.dll
+E:\AmnPardaz\AmnPardazJabari\AmnPardazJabari\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,6 +1,5 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
-using OnlineGym.Application.Security;
 
 namespace AmnPardazJabari.Application.Security
 {

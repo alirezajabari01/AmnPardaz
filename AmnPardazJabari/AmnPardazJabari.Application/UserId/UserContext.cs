@@ -1,7 +1,7 @@
 ﻿using System.Security.Authentication;
+using AmnPardazJabari.Application.Security;
 using AmnPardazJabari.Domain.Abstractions.LifeTimeRegisterations;
 using Microsoft.AspNetCore.Http;
-using OnlineGym.Application.Security;
 
 namespace AmnPardazJabari.Application.UserId;
 

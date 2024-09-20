@@ -5,7 +5,6 @@ using AmnPardazJabari.Domain.Abstractions.LifeTimeRegisterations;
 using AmnPardazJabari.Domain.Enums;
 using AmnPardazJabari.Domain.Users;
 using AmnPardazJabari.Domain.Users.Contracts;
-using OnlineGym.Application.Security;
 
 namespace AmnPardazJabari.Application.Users;
 

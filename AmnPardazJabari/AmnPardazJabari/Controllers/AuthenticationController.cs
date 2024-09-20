@@ -11,7 +11,7 @@ using Microsoft.OpenApi.Extensions;
 namespace AmnPardazJabari.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class AuthenticationController(
         DatabaseContext context,
         IAuthenticationService userService

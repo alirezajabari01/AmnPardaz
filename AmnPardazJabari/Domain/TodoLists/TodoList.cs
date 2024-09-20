@@ -1,6 +1,6 @@
 ﻿using AmnPardazJabari.Domain.Abstractions.Entities;
 using AmnPardazJabari.Domain.Abstractions.LifeTimeRegisterations;
-using AmnPardazJabari.Domain.TodoList.ValueObjects;
+using AmnPardazJabari.Domain.TodoLists.ValueObjects;
 using AmnPardazJabari.Domain.Users;
 
 namespace AmnPardazJabari.Domain.TodoLists;

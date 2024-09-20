@@ -4,7 +4,7 @@ using System.Text;
 using AmnPardazJabari.Domain.Users;
 using Microsoft.IdentityModel.Tokens;
 
-namespace OnlineGym.Application.Security
+namespace AmnPardazJabari.Application.Security
 {
     public static class TokenGenerator
     {

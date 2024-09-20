@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\AmnPardaz\\AmnPardazJabari\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|e:\\amnpardaz\\amnpardazjabari\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F42FA43-86B8-4EB8-B46E-BD87E8A12373}|AmnPardazJabari\\AmnPardazJabari.csproj|e:\\amnpardaz\\amnpardazjabari\\amnpardazjabari\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F42FA43-86B8-4EB8-B46E-BD87E8A12373}|AmnPardazJabari\\AmnPardazJabari.csproj|solutionrelative:amnpardazjabari\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|e:\\amnpardaz\\amnpardazjabari\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|e:\\amnpardaz\\amnpardazjabari\\domain\\enums\\roleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|solutionrelative:domain\\enums\\roleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|e:\\amnpardaz\\amnpardazjabari\\domain\\amnpardazjabari.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E02816A9-BA3A-4FBF-98E1-F3DA5507DC1B}|Domain\\AmnPardazJabari.Domain.csproj|solutionrelative:domain\\amnpardazjabari.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoleId.cs",
-              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Enums\\RoleId.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\RoleId.cs",
-              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Enums\\RoleId.cs",
-              "RelativeToolTip": "Domain\\Enums\\RoleId.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:18:18.116Z",
+              "DocumentIndex": 1,
+              "Title": "AmnPardazJabari.Domain",
+              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\AmnPardazJabari.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\AmnPardazJabari.Domain.csproj",
+              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\AmnPardazJabari.Domain.csproj",
+              "RelativeToolTip": "Domain\\AmnPardazJabari.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T08:45:10.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAhwBIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:17:51.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Role.cs",
-              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
-              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\Domain\\Entities\\Role.cs",
-              "RelativeToolTip": "Domain\\Entities\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:15:47.732Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\AmnPardaz\\AmnPardazJabari\\AmnPardazJabari\\Dockerfile",
+              "RelativeDocumentMoniker": "AmnPardazJabari\\Dockerfile",
+              "ToolTip": "E:\\AmnPardaz\\AmnPardazJabari\\AmnPardazJabari\\Dockerfile",
+              "RelativeToolTip": "AmnPardazJabari\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T08:40:52.06Z",
               "EditorCaption": ""
             }
           ]

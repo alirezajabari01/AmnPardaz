@@ -1,6 +1,6 @@
 ﻿using AmnPardazJabari.Domain.Abstractions.Entities;
 
-namespace AmnPardazJabari.Domain.TodoList.ValueObjects;
+namespace AmnPardazJabari.Domain.TodoLists.ValueObjects;
 
 public class Title : ValueObject
 {

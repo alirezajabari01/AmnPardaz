@@ -3,11 +3,9 @@ using AmnPardazJabari.Application.Contracts.Abstractions;
 using AmnPardazJabari.Application.Contracts.CustomResult;
 using AmnPardazJabari.Application.Contracts.TodoLists;
 using AmnPardazJabari.Application.Contracts.TodoLists.Dtos;
-using AmnPardazJabari.Domain.Enums;
-using AmnPardazJabari.Filters;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AmnPardazJabari.Controllers;
+namespace AmnPardazJabari.Controllers.User;
 public class TodoListController(ITodoListService todoListService) : UserBaseController
 {
     [HttpPost]
